@@ -5,7 +5,7 @@ import { ArrowDown, GitBranch, ExternalLink, Mail, FlaskConical } from "lucide-r
 
 export default function Hero() {
   const profileImageSrc =
-    "https://media.licdn.com/dms/image/v2/D5603AQGWX3D8psSQXg/profile-displayphoto-scale_400_400/B56Zk0f_ZCI4Ak-/0/1757522427841?e=1787788800&v=beta&t=Fv3z-xf25DN9ORIn6F5YLHyOoTxkmFoa1TUYoKirQIw";
+    "profile.png";
 
   return (
     <section
