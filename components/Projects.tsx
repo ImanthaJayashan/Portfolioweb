@@ -5,6 +5,12 @@ import { useRef } from "react";
 
 const projects = [
   {
+    image: "https://mitsubishifa.co.th/files/news/img_041024_092512437177799.jpg",
+    title: "Industrial Control System (ICS) Cybersecurity Monitoring & Threat Detection Lab",
+    desc: "Developed an isolated ICS cybersecurity laboratory with a Python-based PLC simulator communicating through Modbus TCP. Implemented Wireshark and Zeek traffic analysis, Suricata IDS rules for suspicious Modbus TCP Write Single Register operations, a Python security monitoring system with Prometheus metrics, and a Grafana dashboard for real-time alerts. Conducted controlled security tests in VMware to validate the end-to-end detection pipeline.",
+    techs: ["Python", "Modbus TCP", "Zeek", "Suricata", "Wireshark", "Prometheus", "Grafana", "Ubuntu", "VMware"],
+  },
+  {
     image: "https://bynocs.com/_next/image?url=https%3A%2F%2Fblogs.bynocs.com%2Fwp-content%2Fuploads%2F2025%2F08%2FAbmblyopia.jpg&w=3840&q=75",
     title: "Lazy Eye Detection & Vision Therapy System for Preschool Children",
     desc: "AI-powered preschool learning and vision-therapy platform for early amblyopia support. Uses front-camera eye tracking with interactive binocular activities, educational games, and progress monitoring for rehabilitation.",
