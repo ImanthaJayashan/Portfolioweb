@@ -89,7 +89,7 @@ export default function Navbar() {
           ))}
 
           <a
-            href="https://drive.google.com/file/d/1pNkOQLCbkJsNT1TNru7hxGaruuuxnUAV/view?usp=sharing"
+            href="https://drive.google.com/file/d/18xBl7TxNFbX0HNid7OiVB3APxcRIVkfS/view?usp=sharing"
             target="_blank"
             rel="noreferrer"
             className="ml-2 inline-flex items-center justify-center rounded-full bg-gradient-to-r from-[#ca3333] to-[#fa8b8b] px-2 py-1 text-sm font-semibold text-white shadow-lg shadow-[#ca3333]/20 transition-transform hover:scale-[1.02]"
@@ -100,7 +100,7 @@ export default function Navbar() {
 
         <div className="flex items-center gap-2 md:hidden">
           <a
-            href="https://drive.google.com/file/d/1pNkOQLCbkJsNT1TNru7hxGaruuuxnUAV/view?usp=sharing"
+            href="https://drive.google.com/file/d/18xBl7TxNFbX0HNid7OiVB3APxcRIVkfS/view?usp=sharing"
             target="_blank"
             rel="noreferrer"
             className="inline-flex items-center justify-center rounded-full bg-gradient-to-r from-[#ca3333] to-[#fa8b8b] px-3 py-2 text-xs font-semibold text-white shadow-lg shadow-[#ca3333]/20"
