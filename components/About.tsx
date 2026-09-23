@@ -48,7 +48,7 @@ export default function About() {
             <div className="absolute -inset-1 bg-linear-to-r from-[#f16363] to-[#8b5cf6] rounded-2xl opacity-20 group-hover:opacity-40 blur transition duration-500" />
             <div className="relative bg-[#0f0f23]/80 border border-white/10 rounded-2xl p-8 backdrop-blur-sm">
               <p className="text-slate-300 leading-relaxed text-lg mb-6">
-                Motivated <span className="text-[#818cf8] font-semibold">Information Technology undergraduate</span> at SLIIT with hands-on experience building scalable, user-friendly full-stack applications, while also managing client-server networks, cloud applications, and IT solutions that support business needs and day-to-day operations with ensuring Security.
+                Motivated <span className="text-[#818cf8] font-semibold">Information Technology Graduate</span> at SLIIT with hands-on experience building scalable, user-friendly full-stack applications, while also managing client-server networks, cloud applications, and IT solutions that support business needs and day-to-day operations with ensuring Security.
 
               </p>
               <p className="text-slate-400 leading-relaxed mb-6">

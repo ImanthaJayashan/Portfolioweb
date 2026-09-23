@@ -42,7 +42,7 @@ export default function Hero() {
           transition={{ duration: 0.6 }}
         >
           <span className="inline-block px-4 py-2 rounded-full bg-primary/10 border border-primary/30 text-primary text-sm font-medium mb-6">
-            IT Undergraduate
+            IT Graduate
           </span>
         </motion.div>
 
@@ -61,7 +61,7 @@ export default function Hero() {
           transition={{ duration: 0.6, delay: 0.2 }}
           className="text-xl md:text-2xl text-slate-400 mb-4"
         >
-          IT Undergraduate | Full-Stack Developer | Cloud, Networking & Security
+          IT Graduate | Full-Stack Developer | Cloud, Networking & Security
         </motion.p>
 
         <motion.p

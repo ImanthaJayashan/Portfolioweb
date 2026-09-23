@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Imantha Jayashan | Full-Stack Developer & AI Enthusiast",
-  description: "IT Undergraduate at SLIIT | MERN Stack | AI/ML | Cloud & Networking",
+  description: "IT Graduate at SLIIT | MERN Stack | AI/ML | Cloud & Networking",
   keywords: ["Imantha Jayashan", "SLIIT", "Full-Stack Developer", "MERN Stack", "AI", "AWS", "React", "Node.js"],
   authors: [{ name: "Imantha Jayashan" }],
   openGraph: {
