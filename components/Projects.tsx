@@ -5,7 +5,7 @@ import { useRef } from "react";
 
 const projects = [
   {
-    image: "https://mitsubishifa.co.th/files/news/img_041024_092512437177799.jpg",
+    image: "https://images.ctfassets.net/yewqr8zk7e5s/FMLovx23MGZdJmXv1jmpK/b7374fcb9b2c9aec0c7f7c54d667bac3/What_are_Industrial_Control_Systems__ICS_?w=1024&q=80&fm=jpg",
     title: "Industrial Control System (ICS) Cybersecurity Monitoring & Threat Detection Lab",
     desc: "Developed an isolated ICS cybersecurity laboratory with a Python-based PLC simulator communicating through Modbus TCP. Implemented Wireshark and Zeek traffic analysis, Suricata IDS rules for suspicious Modbus TCP Write Single Register operations, a Python security monitoring system with Prometheus metrics, and a Grafana dashboard for real-time alerts. Conducted controlled security tests in VMware to validate the end-to-end detection pipeline.",
     techs: ["Python", "Modbus TCP", "Zeek", "Suricata", "Wireshark", "Prometheus", "Grafana", "Ubuntu", "VMware"],
