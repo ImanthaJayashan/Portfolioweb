@@ -47,6 +47,14 @@ const generalCerts: CertItem[] = [
     color: "#10b981",
     pdfUrl: "https://drive.google.com/file/d/14ADtYLNPpepQln0HnPDZUqy-uEtgD4C5/preview",
   },
+  {
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9f90b0Hnc8obsWYn2-X1F9deX3XN-4LvsH4Tgdgyfkg&s=10",
+     title: "Introduction to Cybersecurity",
+     org: "Cisco Networking Academy",
+     year: "2026",
+     color: "#06b6d4",
+     pdfUrl: "https://drive.google.com/file/d/1-6M_eXIY0W4R77uNZnV0E5hPnF-NkwgT/preview",
+  },
 ];
 
 const cloudCerts: CertItem[] = [
