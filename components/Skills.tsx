@@ -47,6 +47,20 @@ const skillCategories = [
     color: "#06b6d4",
   },
   {
+    title: "System Administration",
+    icon: "🖥️",
+    skills: [
+      "Active Directory Domain Services (AD DS)",
+      "Domain Controller Configuration",
+      "User and Group Management",
+      "Organizational Units (OUs)",
+      "Group Policy Objects (GPO)",
+      "Domain Joining",
+      "DNS Administration",
+    ],
+    color: "#0ea5e9",
+  },
+  {
     title: "Tools & Design",
     icon: "🛠️",
     skills: ["Git / GitHub", "Postman", "Figma", "Adobe Illustrator", "Adobe Photoshop", "Selenium"],
