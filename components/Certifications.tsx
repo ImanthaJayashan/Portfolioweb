@@ -283,6 +283,20 @@ export default function Certifications() {
                 </motion.div>
               ))}
             </div>
+              <div className="mt-6 flex justify-center">
+                <a
+                  href="https://drive.google.com/file/d/1jhxMcmivRvUoW_hvil1MqcybpE6W0zJF/view?usp=sharing"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="block overflow-hidden rounded-2xl border border-amber-400/40 bg-[#101828] p-2 shadow-lg shadow-amber-500/10 transition hover:scale-[1.02] hover:border-amber-300/60"
+                >
+                  <img
+                    src="/I2CS__1_.png"
+                    alt="cyber sec badge"
+                    className="h-28 w-auto object-contain mx-auto"
+                  />
+                </a>
+              </div>
           </div>
 
           <div>
